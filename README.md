@@ -10,3 +10,5 @@ Im to busy to type the other ones so check it out urself
 Btw ts Has Arena Added too so if u have problems adding Arena js use Wayzz Backend
 
 This Backend has an package bug ill fix that soon!
+
+unfinished backend ill finish it soon
