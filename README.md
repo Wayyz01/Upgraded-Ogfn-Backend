@@ -7,3 +7,4 @@ This Backend has An Working Matckamker that shows how many ppl are qued and how 
 this has an OG pack included full locker commands and 1 cosmetic command!
 It has an appeal commands for banned ppl to appeal 
 Im to busy to type the other ones so check it out urself
+Btw ts Has Arena Added too so if u have problems adding Arena js use Wayzz Backend
